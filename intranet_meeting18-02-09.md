@@ -8,7 +8,7 @@
 - [ ] Strike last sentence from Work Request on main page
 - [ ] Add bobbies WFT and TEC info from email attachment
 
-## Previous Meeting 02-02-1
+## Previous Meeting 02-02-18
 - [x] add new for recognition
 - [x] remove acronyms and abbreviations from list of forms
 - [x] remove warrant update form from resources
