@@ -1,7 +1,7 @@
 
 ## Intranet Meeting 02-09-18
 - [ ] Replace purpose and goals vision and mission for gta progam staff
-- [ ] Replace Houston image
+- [ ] Replace Houston image *From Gail [Houston](https://www.shutterstock.com/image-photo/aerial-day-view-houston-downtown-skylines-523920790)*
 - [ ] Repeat address and counties served Title called service center information
 - [ ] Add link to google maps from map image
 - [ ] Try to swap middle and last section on GTA page
