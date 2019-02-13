@@ -1,4 +1,44 @@
-## Intranet Meeting 02-16-18
+## Intranet Meeting 02-23-18 and 02-26-18
+- [x] Change buttons to 25% size
+- [ ] Grace will edit tec purpose and activities and send it back for update
+- [x] Update TEC phone list with Grace's list from her email
+- [x] Build Frank's page blank template for planning and performance
+- [ ] Create training list courselist gta program training course like knowledge central, have different taxes, build relational list. Also add CPE credit data to list
+- [ ] Teresa will send templates for content types.  Then build templates in Sharepoint.
+- [x] Gail is working on AM library example.
+
+### *Notes*
+grid-image {
+    width: 20%;
+    float: left;
+    padding: 5px;
+}
+
+white-box > h3 {
+    font-size: 18px;
+}
+
+h3 {
+    letter-spacing: 2px;
+}
+
+orgRow h3 {
+    min-height: 35px;
+}
+
+.white-box>p {
+    margin-left: 80px;
+}
+
+'#orgRow h3 {
+    margin-left: 80px;
+}
+
+.white-box {
+    min-height: 80px;
+}
+
+## Previous Intranet Meeting 02-16-18
 - [x] Change color of map background so they know to click
 - [x] Change buttons to make smaller under GTA / maybe more horizontal
 - [x] Remove all in language for solution support / in the area of replace with for
@@ -26,13 +66,3 @@
 .goals > .overviewDesciption-container img{
     border-radius: 5px;
 }
-
-
-## Previous Intranet Meeting 02-09-18
-- [x] Replace purpose and goals vision and mission for gta progam staff
-- [x] Replace Houston image *From Gail [Houston](https://www.shutterstock.com/image-photo/aerial-day-view-houston-downtown-skylines-523920790)*
-- [x] Repeat address and counties served Title called service center information
-- [x] Add link to google maps from map image
-- [x] Try to swap middle and last section on GTA page
-- [x] Strike last sentence from Work Request on main page
-- [x] Add bobbies WFT and TEC info from email attachment
