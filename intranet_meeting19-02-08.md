@@ -1,3 +1,7 @@
+19-02-15
+push process css page
+create 3 cards for recognition with content to be sent to me
+
 19-02-08
 Bios on teamsite
 Change background on news and announcements
